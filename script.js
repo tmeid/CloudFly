@@ -16,7 +16,7 @@
     let btn = document.querySelector('.close-btn');
         // mobile menu
         nav = document.querySelector('.mobile-menu');
-        hamburger = document.querySelector('.hamburger-memu'),
+        hamburger = document.querySelector('.hamburger-btn'),
         arrowDownBtns = document.querySelectorAll('.mobile-menu .arrow-down'),
         mask = document.querySelector('.mask');
 
