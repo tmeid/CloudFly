@@ -448,6 +448,14 @@ p{
     background-color: black!important;
     border-radius: 50%!important;
 }
+.slick-prev:hover,
+.slick-next:hover{
+    background-color: #fff!important;
+}
+.slick-next:hover:before, 
+.slick-prev:hover:before{
+    border-color:#000!important;
+}
 .slick-next:before, .slick-prev:before{
     content: ''!important;
    
